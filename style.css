@@ -63,24 +63,6 @@ h2 {
           transform: translateY(-15px) scale(1.1);
   box-shadow: 0 12px 8px 2px rgba(0, 0, 0, 0.3);
 }
-.box:first-child {
-  padding: 24px;
-  -webkit-flex-wrap: wrap;
-      -ms-flex-wrap: wrap;
-          flex-wrap: wrap;
-  background: #ecf0f1;
-  color: #2c3e50;
-}
-.box:first-child a {
-  margin: 0 5px;
-  font-size: 0.8rem;
-  color: #009688;
-}
-.box:first-child:hover {
-  -webkit-transform: none;
-          transform: none;
-  box-shadow: none;
-}
 
 .bloodOrange {
   background: #ff5722;
