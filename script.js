@@ -1,4 +1,4 @@
-var clipboard = new Clipboard('.btn');
+var clipboard = new Clipboard('#blackButton');
 
   clipboard.on('success', function(e) {
     console.log(e);
