@@ -64,6 +64,7 @@ h2 {
   box-shadow: 0 12px 8px 2px rgba(0, 0, 0, 0.3);
 }
 
+/* light colors */
 .black {
   background: rgb(43,43,43);
 }
@@ -159,6 +160,104 @@ h2 {
 
 .yellow {
   background: rgb(255,205,3);
+}
+
+/* dark colors */
+.blackDark {
+  background: rgb(38,38,38);
+}
+
+.blueDark {
+  background: rgb(57,77,130);
+}
+
+.brownDark {
+  background: rgb(79,58,43);
+}
+
+.coffeeDark {
+  background: rgb(143,114,94);
+}
+
+.forestGreenDark {
+  background: rgb(44,79,53);
+}
+
+.grayDark {
+  background: rgb(126,139,140);
+  color: #34495e;
+}
+
+.greenDark {
+  background: rgb(38,173,95);
+}
+
+.limeDark {
+  background: rgb(143,176,33);
+}
+
+.magentaDark {
+  background: rgb(142,68,173);
+}
+
+.maroonDark {
+  background: rgb(102,37,33);
+}
+
+.mintDark {
+  background: rgb(22,161,133);
+}
+
+.navyBlueDark {
+  background: rgb(43,61,79);
+}
+
+.orangeDark {
+  background: rgb(212,85,0);
+}
+
+.pinkDark {
+  background: rgb(212,91,157);
+}
+
+.plumDark {
+  background: rgb(79,43,79);
+}
+
+.powderBlueDark {
+  background: rgb(154,172,214);
+}
+
+.purpleDark {
+  background: rgb(92,72,163);
+}
+
+.redDark {
+  background: rgb(191,57,42);
+}
+
+.sandDark {
+  background: rgb(214,195,150);
+}
+
+.skyBlueDark {
+  background: rgb(41,128,186);
+}
+
+.tealDark {
+  background: rgb(53,98,115);
+}
+
+.watermelonDark {
+  background: rgb(217,85,89);
+}
+
+.whiteDark {
+  background: rgb(189,195,199);
+}
+
+.yellowDark {
+  background: rgb(255,170,0);
 }
 
 /* LESS
