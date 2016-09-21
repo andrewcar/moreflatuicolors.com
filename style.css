@@ -65,15 +65,15 @@ h2 {
 }
 
 .black {
-  background: rgba(43, 43, 43, 1);
+  background: rgb(43,43,43);
 }
 
-.bloodOrange {
-  background: #ff9800;
+.blue {
+  background: rgb(80,102,161);
 }
 
-.dullOrange {
-  background: #f39c12;
+.brown {
+  background: rgb(94,69,52);
 }
 
 .amber {
