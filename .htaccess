@@ -1,2 +1,2 @@
 RewriteCond %{HTTP_HOST} ^https://andrewcar.github.io/moreflatuicolors/
-RewriteRule ^(.*) http://moreflatuicolors.com [P]
+RewriteRule ^(.*) http://www.moreflatuicolors.com [P]
