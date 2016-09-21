@@ -64,8 +64,8 @@ h2 {
   box-shadow: 0 12px 8px 2px rgba(0, 0, 0, 0.3);
 }
 
-.bloodOrange {
-  background: #ff5722;
+.black {
+  background: rgba(43, 43, 43, 1);
 }
 
 .orange {
