@@ -76,155 +76,89 @@ h2 {
   background: rgb(94,69,52);
 }
 
-.amber {
-  background: #ffc107;
+.coffee {
+  background: rgb(163,134,113);
 }
 
-.sunflower {
-  background: #f1c40f;
+.forestGreen {
+  background: rgb(52,94,65);
 }
 
-.yellow {
-  background: #ffeb3b;
+.gray {
+  background: rgb(149,165,166);
   color: #34495e;
-}
-
-.lime {
-  background: #cddc39;
-}
-
-.lightGreen {
-  background: #8bc34a;
-}
-
-.emerald {
-  background: #2ecc71;
 }
 
 .green {
-  background: #4caf50;
+  background: rgb(47,204,112);
 }
 
-.nephritis {
-  background: #27ae60;
+.lime {
+  background: rgb(171,204,61);
 }
 
-.teal {
-  background: #009688;
+.magenta {
+  background: rgb(155,89,181);
 }
 
-.greenSea {
-  background: #16a085;
+.maroon {
+  background: rgb(120,48,42);
 }
 
-.turqoise {
-  background: #1abc9c;
+.mint {
+  background: rgb(23,189,156);
 }
 
-.cyan {
-  background: #00bcd4;
+.navyBlue {
+  background: rgb(52,73,94);
 }
 
-.lightBlue {
-  background: #03a9f4;
-}
-
-.river {
-  background: #3498db;
-}
-
-.blue {
-  background: #2196f3;
-}
-
-.belize {
-  background: #2980b9;
-}
-
-.belize {
-  background: #2980b9;
-}
-
-.indigo {
-  background: #3f51b5;
-}
-
-.deepPurple {
-  background: #673ab7;
-}
-
-.purple {
-  background: #9c27b0;
-}
-
-.plum {
-  background: #8e44ad;
-}
-
-.amethyst {
-  background: #9b59b6;
+.orange {
+  background: rgb(230,125,34);
 }
 
 .pink {
-  background: #e91e63;
+  background: rgb(245,125,197);
+}
+
+.plum {
+  background: rgb(94,52,94);
+}
+
+.powderBlue {
+  background: rgb(184,202,242);
+}
+
+.purple {
+  background: rgb(116,94,196);
 }
 
 .red {
-  background: #f44336;
+  background: rgb(232,78,60);
 }
 
-.alizarin {
-  background: #e74c3c;
+.sand {
+  background: rgb(240,222,180);
 }
 
-.pomegranate {
-  background: #c0392b;
+.skyBlue {
+  background: rgb(53,153,219);
 }
 
-.pumpkin {
-  background: #d35400;
+.teal {
+  background: rgb(59,112,130);
 }
 
-.brown {
-  background: #795548;
+.watermelon {
+  background: rgb(240,113,121);
 }
 
-.midnightBlue {
-  background: #2c3e50;
+.white {
+  background: rgb(237,241,242);
 }
 
-.asphalt {
-  background: #34495e;
-}
-
-.gunMetal {
-  background: #607d8b;
-}
-
-.asbestos {
-  background: #7f8c8d;
-}
-
-.grey {
-  background: #9e9e9e;
-}
-
-.concrete {
-  background: #95a5a6;
-}
-
-.silver {
-  background: #bdc3c7;
-}
-
-.clouds {
-  background: #ecf0f1;
-  color: #34495e;
-}
-
-.paper {
-  background: #efefef;
-  color: #34495e;
+.yellow {
+  background: rgb(255,205,3);
 }
 
 /* LESS
