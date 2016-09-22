@@ -64,6 +64,89 @@ h2 {
   box-shadow: 0 12px 8px 2px rgba(0, 0, 0, 0.3);
 }
 
+/* main */
+.turquoise {
+  background: rgb(26, 188, 156);
+}
+
+.greenSea {
+  background: rgb(22, 160, 133);
+}
+
+.emerald {
+  background: rgb(46, 204, 113);
+}
+
+.nephritis {
+  background: rgb(39, 174, 96);
+}
+
+.peterRiver {
+  background: rgb(39, 174, 96);
+}
+
+.belizeHole {
+  background: rgb(41, 128, 185);
+}
+
+.wetAsphalt {
+  background: rgb(52, 73, 94);
+}
+
+.midnightBlue {
+  background: rgb(44, 62, 80);
+}
+
+.pussy {
+  background: rgb(234, 76, 136);
+}
+
+.magenta {
+  background: rgb(202, 44, 104);
+}
+
+.amethyst {
+  background: rgb(155, 89, 182);
+}
+
+.wisteria {
+  background: rgb(142, 68, 173);
+}
+
+.sunFlower {
+  background: rgb(241, 196, 15);
+}
+
+.carrot {
+  background: rgb(243, 156, 18);
+}
+
+.alizarin {
+  background: rgb(231, 76, 60);
+}
+
+.pomegranate {
+  background: rgb(192, 57, 43);
+}
+
+.clouds {
+  background: rgb(236, 240, 241);
+  color: #34495e;
+}
+
+.silver {
+  background: rgb(189, 195, 199);
+  color: #34495e;
+}
+
+.concrete {
+  background: rgb(149, 165, 166);
+}
+
+.asbestos {
+  background: rgb(127, 140, 141);
+}
+
 /* red */
 .red1 {
   background: rgb(255,204,188);
@@ -379,6 +462,7 @@ h2 {
 .green12 {
   background: rgb(0, 92, 1);
 }
+
 /* LESS
 
 //Greens
