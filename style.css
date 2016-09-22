@@ -170,101 +170,105 @@ h2 {
 }
 
 /* dark colors */
-.blackDark {
-  background: rgb(38,38,38);
-}
-
-.blueDark {
-  background: rgb(57,77,130);
-}
-
-.brownDark {
-  background: rgb(79,58,43);
-}
-
-.coffeeDark {
-  background: rgb(143,114,94);
-}
-
-.forestGreenDark {
-  background: rgb(44,79,53);
-}
-
-.grayDark {
-  background: rgb(126,139,140);
+.purple1 {
+  background: rgb(220, 198, 224);
   color: #34495e;
 }
 
-.greenDark {
-  background: rgb(38,173,95);
+.purple2 {
+  background: rgb(206, 160, 228);
+  color: #34495e;
 }
 
-.limeDark {
-  background: rgb(143,176,33);
+.purple3 {
+  background: rgb(190, 144, 212);
+  color: #34495e;
 }
 
-.magentaDark {
-  background: rgb(142,68,173);
+.purple4 {
+  background: rgb(171, 105, 198);
+  color: #34495e;
 }
 
-.maroonDark {
-  background: rgb(102,37,33);
+.purple5 {
+  background: rgb(155, 89, 182);
 }
 
-.mintDark {
-  background: rgb(22,161,133);
+.purple6 {
+  background: rgb(142, 68, 173);
+  color: #34495e;
 }
 
-.navyBlueDark {
-  background: rgb(43,61,79);
+.purple7 {
+  background: rgb(126, 52, 157);
 }
 
-.orangeDark {
-  background: rgb(212,85,0);
+.purple8 {
+  background: rgb(110, 36, 141);
 }
 
-.pinkDark {
-  background: rgb(212,91,157);
+.purple9 {
+  background: rgb(94, 20, 125);
 }
 
-.plumDark {
-  background: rgb(79,43,79);
+.purple10 {
+  background: rgb(78, 4, 109);
 }
 
-.powderBlueDark {
-  background: rgb(154,172,214);
+.purple11 {
+  background: rgb(62, 0, 93);
 }
 
-.purpleDark {
-  background: rgb(92,72,163);
+.purple12 {
+  background: rgb(62, 0, 93);
 }
 
-.redDark {
-  background: rgb(191,57,42);
+.blue1 {
+  background: rgb(57, 213, 255);
 }
 
-.sandDark {
-  background: rgb(214,195,150);
+.blue2 {
+  background: rgb(41, 197, 255);
 }
 
-.skyBlueDark {
-  background: rgb(41,128,186);
+.blue3 {
+  background: rgb(25, 181, 254);
 }
 
-.tealDark {
-  background: rgb(53,98,115);
+.blue4 {
+  background: rgb(34, 167, 240);
 }
 
-.watermelonDark {
-  background: rgb(217,85,89);
+.blue5 {
+  background: rgb(18, 151, 224);
 }
 
-.whiteDark {
-  background: rgb(189,195,199);
+.blue6 {
+  background: rgb(2, 135, 208);
 }
 
-.yellowDark {
-  background: rgb(255,170,0);
+.blue7 {
+  background: rgb(0, 119, 192);
+}
+
+.blue8 {
+  background: rgb(0, 103, 176);
+}
+
+.blue9 {
+  background: rgb(0, 87, 160);
+}
+
+.blue10 {
+  background: rgb(0, 71, 144);
+}
+
+.blue11 {
+  background: rgb(0, 55, 128);
+}
+
+.blue12 {
+  background: rgb(16, 39, 112);
 }
 
 /* LESS
