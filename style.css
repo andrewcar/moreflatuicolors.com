@@ -59,8 +59,8 @@ h2 {
   transition: all 0.2s ease-in-out;
 }
 .box:hover {
-  -webkit-transform: translateY(-15px) scale(1.1);
-          transform: translateY(-15px) scale(1.1);
+  -webkit-transform: translateY(0px) scale(1.1);
+          transform: translateY(0px) scale(1.1);
   box-shadow: 0 12px 8px 2px rgba(0, 0, 0, 0.3);
 }
 
