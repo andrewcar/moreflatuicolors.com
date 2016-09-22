@@ -117,6 +117,7 @@ h2 {
   background: rgb(135,0,0);
 }
 
+/* pink */
 .pink1 {
   background: rgb(255,188,216);
   color: #34495e;
@@ -169,7 +170,7 @@ h2 {
   background: rgb(138,0,40);
 }
 
-/* dark colors */
+/* purple */
 .purple1 {
   background: rgb(220, 198, 224);
   color: #34495e;
@@ -223,6 +224,7 @@ h2 {
   background: rgb(62, 0, 93);
 }
 
+/* blue */
 .blue1 {
   background: rgb(57, 213, 255);
 }
@@ -271,6 +273,112 @@ h2 {
   background: rgb(16, 39, 112);
 }
 
+/* teal */
+.teal1 {
+  background: rgb(94, 250, 247);
+  color: #34495e;
+}
+
+.teal2 {
+  background: rgb(81, 245, 234);
+  color: #34495e;
+}
+
+.teal3 {
+  background: rgb(71, 235, 224);
+  color: #34495e;
+}
+
+.teal4 {
+  background: rgb(55, 219, 208);
+  color: #34495e;
+}
+
+.teal5 {
+  background: rgb(39, 203, 192);
+}
+
+.teal6 {
+  background: rgb(23, 187, 176);
+  color: #34495e;
+}
+
+.teal7 {
+  background: rgb(7, 171, 160);
+}
+
+.teal8 {
+  background: rgb(0, 155, 144);
+}
+
+.teal9 {
+  background: rgb(0, 139, 128);
+}
+
+.teal10 {
+  background: rgb(0, 123, 112);
+}
+
+.teal11 {
+  background: rgb(16, 107, 96);
+}
+
+.teal12 {
+  background: rgb(0, 91, 80);
+}
+
+/* green */
+.green1 {
+  background: rgb(142, 255, 193);
+  color: #34495e;
+}
+
+.green2 {
+  background: rgb(94, 252, 161);
+  color: #34495e;
+}
+
+.green3 {
+  background: rgb(78, 236, 145);
+  color: #34495e;
+}
+
+.green4 {
+  background: rgb(62, 220, 129);
+  color: #34495e;
+}
+
+.green5 {
+  background: rgb(46, 204, 113);
+}
+
+.green6 {
+  background: rgb(30, 188, 97);
+}
+
+.green7 {
+  background: rgb(14, 172, 81);
+}
+
+.green8 {
+  background: rgb(0, 156, 65);
+}
+
+.green9 {
+  background: rgb(0, 140, 49);
+}
+
+.green10 {
+  background: rgb(0, 124, 33);
+}
+
+.green11 {
+  background: rgb(0, 108, 17);
+}
+
+.green12 {
+  background: rgb(0, 92, 1);
+}
 /* LESS
 
 //Greens
