@@ -64,103 +64,109 @@ h2 {
   box-shadow: 0 12px 8px 2px rgba(0, 0, 0, 0.3);
 }
 
-/* light colors */
-.black {
-  background: rgb(43,43,43);
-}
-
-.blue {
-  background: rgb(80,102,161);
-}
-
-.brown {
-  background: rgb(94,69,52);
-}
-
-.coffee {
-  background: rgb(163,134,113);
-}
-
-.forestGreen {
-  background: rgb(52,94,65);
-}
-
-.gray {
-  background: rgb(149,165,166);
+/* red */
+.red1 {
+  background: rgb(255,204,188);
   color: #34495e;
 }
 
-.green {
-  background: rgb(47,204,112);
-}
-
-.lime {
-  background: rgb(171,204,61);
-}
-
-.magenta {
-  background: rgb(155,89,181);
-}
-
-.maroon {
-  background: rgb(120,48,42);
-}
-
-.mint {
-  background: rgb(23,189,156);
-}
-
-.navyBlue {
-  background: rgb(52,73,94);
-}
-
-.orange {
-  background: rgb(230,125,34);
-}
-
-.pink {
-  background: rgb(245,125,197);
-}
-
-.plum {
-  background: rgb(94,52,94);
-}
-
-.powderBlue {
-  background: rgb(184,202,242);
-}
-
-.purple {
-  background: rgb(116,94,196);
-}
-
-.red {
-  background: rgb(232,78,60);
-}
-
-.sand {
-  background: rgb(240,222,180);
-}
-
-.skyBlue {
-  background: rgb(53,153,219);
-}
-
-.teal {
-  background: rgb(59,112,130);
-}
-
-.watermelon {
-  background: rgb(240,113,121);
-}
-
-.white {
-  background: rgb(237,241,242);
+.red2 {
+  background: rgb(255,172,156);
   color: #34495e;
 }
 
-.yellow {
-  background: rgb(255,205,3);
+.red3 {
+  background: rgb(255,140,124);
+  color: #34495e;
+}
+
+.red4 {
+  background: rgb(255,124,108);
+  color: #34495e;
+}
+
+.red5 {
+  background: rgb(255,108,92);
+}
+
+.red6 {
+  background: rgb(247,92,76);
+}
+
+.red7 {
+  background: rgb(231,76,60);
+}
+
+.red8 {
+  background: rgb(215,60,44);
+}
+
+.red9 {
+  background: rgb(199,44,28);
+}
+
+.red10 {
+  background: rgb(183,28,12);
+}
+
+.red11 {
+  background: rgb(167,12,0);
+}
+
+.red12 {
+  background: rgb(135,0,0);
+}
+
+.pink1 {
+  background: rgb(255,188,216);
+  color: #34495e;
+}
+
+.pink2 {
+  background: rgb(255,140,200);
+  color: #34495e;
+}
+
+.pink3 {
+  background: rgb(255,124,184);
+  color: #34495e;
+}
+
+.pink4 {
+  background: rgb(255,108,168);
+  color: #34495e;
+}
+
+.pink5 {
+  background: rgb(250,92,152);
+}
+
+.pink6 {
+  background: rgb(234,76,136);
+}
+
+.pink7 {
+  background: rgb(218,60,120);
+}
+
+.pink8 {
+  background: rgb(202,44,104);
+}
+
+.pink9 {
+  background: rgb(186,28,88);
+}
+
+.pink10 {
+  background: rgb(170,12,72);
+}
+
+.pink11 {
+  background: rgb(154,0,56);
+}
+
+.pink12 {
+  background: rgb(138,0,40);
 }
 
 /* dark colors */
