@@ -463,6 +463,113 @@ h2 {
   background: rgb(0, 92, 1);
 }
 
+/* yellow */
+.yellow1 {
+  background: rgb(253, 227, 167);
+  color: #34495e;
+}
+
+.yellow2 {
+  background: rgb(255, 207, 75);
+  color: #34495e;
+}
+
+.yellow3 {
+  background: rgb(249, 191, 59);
+  color: #34495e;
+}
+
+.yellow4 {
+  background: rgb(249, 179, 47);
+  color: #34495e;
+}
+
+.yellow5 {
+  background: rgb(245, 171, 53);
+}
+
+.yellow6 {
+  background: rgb(243, 156, 18);
+  color: #34495e;
+}
+
+.yellow7 {
+  background: rgb(241, 137, 45);
+}
+
+.yellow8 {
+  background: rgb(230, 126, 34);
+}
+
+.yellow9 {
+  background: rgb(216, 116, 0);
+}
+
+.yellow10 {
+  background: rgb(200, 100, 0);
+}
+
+.yellow11 {
+  background: rgb(184, 84, 0);
+}
+
+.yellow12 {
+  background: rgb(168, 68, 16);
+}
+
+/* beige */
+.beige1 {
+  background: rgb(255, 220, 181);
+  color: #34495e;
+}
+
+.beige2 {
+  background: rgb(255, 194, 155);
+  color: #34495e;
+}
+
+.beige3 {
+  background: rgb(255, 178, 139);
+  color: #34495e;
+}
+
+.beige4 {
+  background: rgb(255, 162, 123);
+  color: #34495e;
+}
+
+.beige5 {
+  background: rgb(255, 146, 107);
+}
+
+.beige6 {
+  background: rgb(243, 130, 91);
+}
+
+.beige7 {
+  background: rgb(227, 114, 75);
+}
+
+.beige8 {
+  background: rgb(211, 98, 59);
+}
+
+.beige9 {
+  background: rgb(195, 82, 43);
+}
+
+.beige10 {
+  background: rgb(179, 66, 27);
+}
+
+.beige11 {
+  background: rgb(163, 50, 11);
+}
+
+.beige12 {
+  background: rgb(147, 34, 16);
+}
+
 /* LESS
 
 //Greens
